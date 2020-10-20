@@ -1,0 +1,8 @@
+start_x: 0
+start_z: 0
+end_x: 2500
+end_z: 2500
+price: 250
+# List of worlds this plugin will be active on
+worlds:
+  - 'world'

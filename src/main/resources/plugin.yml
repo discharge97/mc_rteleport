@@ -1,0 +1,6 @@
+name: RTeleport
+version: ${project.version}
+main: hypnoticpvp.rteleport.RTeleport
+api-version: 1.16
+authors: [ 100JKO, Discharge ]
+description: Random player teleporter
